@@ -1,0 +1,187 @@
+{
+  "superadmin": [
+    {
+      "id": "aade",
+      "username": "anilkumar",
+      "password": "nadhiya@123",
+      "email": "anilkumar.sai333@gmail.com",
+      "role": "superadmin"
+    }
+  ],
+  "admin": [
+    {
+      "id": "101",
+      "username": "nadhiya",
+      "password": "nadhiya@123",
+      "email": "supad123@gmail.com",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "username": "dwa",
+      "password": "supaewdded@123",
+      "email": "supad123@gmail.com",
+      "role": "admin"
+    },
+    {
+      "username": "Nadhiya",
+      "email": "nadhiyas1701@gmail.com",
+      "password": "mn,nknkk#ugu",
+      "role": "admin",
+      "id": "ukKwbtf"
+    },
+    {
+      "username": "admin",
+      "password": "",
+      "email": "",
+      "role": "admin",
+      "id": "b1peWcT"
+    },
+    {
+      "username": "admin",
+      "password": "kljlkjljlk",
+      "email": "nadhiyas1701@gmail.com",
+      "role": "admin",
+      "id": "4ORzy74"
+    },
+    {
+      "username": "superadmin",
+      "password": "bbjbjb",
+      "email": "nadhiyas1701@gmail.com",
+      "role": "admin",
+      "id": "67kphck"
+    },
+    {
+      "username": "nirushika",
+      "password": "eweknewknjek",
+      "email": "nadhiyas1701@gmail.com",
+      "role": "admin",
+      "id": "Qa4XV7r"
+    },
+    {
+      "username": "superadmin",
+      "password": "dfwqw",
+      "email": "nadhiyas170",
+      "role": "admin",
+      "id": "JcOHXey"
+    },
+    {
+      "id": "f626",
+      "username": "wwssw",
+      "password": "ed222",
+      "email": "we33",
+      "role": "admin"
+    },
+    {
+      "id": "5696",
+      "username": "anilkumarjadi",
+      "password": "anilkumar@545",
+      "email": "anilkumar.sai333@gmail.com",
+      "role": "admin"
+    },
+    {
+      "id": "0a6c",
+      "username": "nadhia",
+      "password": "nadjia@123",
+      "email": "anilkumar.sai333@gmail.com",
+      "role": "admin"
+    }
+  ],
+  "inventorystaff": [
+    {
+      "id": "101",
+      "username": "rggreg",
+      "password": "4e4343",
+      "email": "erwer",
+      "role": "inventorystaff"
+    },
+    {
+      "username": "prashanth",
+      "password": "wefwefd",
+      "email": "wdew",
+      "role": "inventorystaff",
+      "id": "tsttE4y"
+    },
+    {
+      "username": "nadhiya",
+      "password": " rr",
+      "email": "mnmam",
+      "role": "inventorystaff",
+      "id": "lICI3nT"
+    },
+    {
+      "username": "newwe",
+      "email": "nadhiyas1701@gmail.com",
+      "password": "nadhiya@123",
+      "role": "inventorystaff",
+      "id": "e-8N1RQ"
+    },
+    {
+      "username": "jwhhff",
+      "password": "nadihdhuw",
+      "email": "nadhiyas1701",
+      "role": "inventorystaff",
+      "id": "_dxlpNO"
+    }
+  ],
+  "supplier": [
+    {
+      "id": "101",
+      "username": "supplier",
+      "password": "suppl@123",
+      "email": "suppl123@gmail.com",
+      "role": "supplier"
+    },
+    {
+      "username": "sdsds",
+      "password": "",
+      "email": "",
+      "role": "supplier",
+      "id": "DghKGE9"
+    },
+    {
+      "username": "wsww",
+      "password": "ww",
+      "email": "www",
+      "role": "supplier",
+      "id": "h3dowXc"
+    },
+    {
+      "username": "m mnn",
+      "password": "kjnkn",
+      "email": "knk",
+      "role": "supplier",
+      "id": "LlFYcNE"
+    }
+  ],
+  "viewer": [
+    {
+      "username": "ewee",
+      "password": "wee",
+      "email": "ewewe",
+      "role": "viewer",
+      "id": "ddCZxJM"
+    },
+    {
+      "username": "dfwswd",
+      "password": "sds",
+      "email": "sdwsa",
+      "role": "viewer",
+      "id": "NTjpcp_"
+    },
+    {
+      "username": "komal",
+      "password": "fhfk",
+      "email": "komalfshj",
+      "role": "viewer",
+      "id": "t8K91lA"
+    },
+    {
+      "username": "mrlnr",
+      "password": "ewwe",
+      "email": "wewwewe",
+      "role": "viewer",
+      "id": "P7acu9C"
+    }
+  ]
+}

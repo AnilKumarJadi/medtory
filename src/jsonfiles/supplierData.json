@@ -1,0 +1,33 @@
+{
+    "suppliers":[{
+        "id":1,
+        "supplierName":"MediSupp"
+    },
+     {  
+        "id":2, 
+        "supplierName":"VitalCare"
+     },
+      {
+        "id":3,
+        "supplierName":  "MediConnect"
+      },
+      {
+        "id":4,
+        "supplierName":  "HealthLink"
+      },
+      {
+        "id":5,
+        "supplierName":  "MediEssentials"
+      },
+    
+    {
+      "id":6,
+      "supplierName":  "MediPro"
+    },
+       {
+      "id":6,
+      "supplierName":  "SupplySolutions"
+       }
+    
+    ]
+}
